@@ -1,0 +1,14 @@
+.vscode
+.token
+.env
+*.log
+*.pot
+*.pyc
+*.csv
+__pycache__/
+**/static/*
+**/ENV/*
+**/config/*
+/ENV/*
+**/data/**
+**/models/**
