@@ -1,7 +1,5 @@
 # Credit Card Transactions Synthetic Data Generation
 
-# Credit Card Transaction Data Analysis
-
 ## Introduction
 
 This project addresses the challenge of obtaining real credit card transaction data to train machine learning models for fraud detection and credit risk assessment. Acquiring such data can be complex due to privacy concerns and regulatory restrictions, notably under the General Data Protection Regulation (GDPR).
