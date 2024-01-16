@@ -1,8 +1,36 @@
-# credit_card_synthetic_data
-Credit Card Transactions Synthetic Data Generation
+# Credit Card Transactions Synthetic Data Generation
 
+# Credit Card Transaction Data Analysis
 
+## Introduction
 
+This project addresses the challenge of obtaining real credit card transaction data to train machine learning models for fraud detection and credit risk assessment. Acquiring such data can be complex due to privacy concerns and regulatory restrictions, notably under the General Data Protection Regulation (GDPR).
+
+The General Data Protection Regulation (GDPR) imposes strict regulations on the processing and handling of personal data. This includes financial transactions, which are often considered sensitive and private. As a result, obtaining real credit card transaction data for analysis and modeling can be legally and ethically challenging.
+
+## Jupyter Notebooks
+
+This repository contains four Jupyter notebooks, each serving a specific purpose in the analysis and modeling of credit card transactions.
+
+### 1. cc-demo-generate-data.ipynb
+
+This notebook focuses on the generation of synthetic credit card transaction data. It explores techniques for creating realistic transaction data that can be used for model training and testing.
+
+### 2. cc-demo-feature-generation.ipynb
+
+In this notebook, feature engineering techniques for credit card transaction data are demonstrated. 
+
+### 3. cc-demo-model-evaluation.ipynb
+
+The third notebook is dedicated to model evaluation. It covers the training and assessment of machine learning models for credit card fraud detection or risk assessment. Evaluation metrics and model performance analysis are included (Soon).
+
+### 4. cc-demo-dashboards.ipynb
+
+This notebook showcases the creation of dashboards to visualize and explore credit card transaction data and model results. Dashboards provide a user-friendly way to gain insights from the data and models.
+
+## Getting Started
+
+To get started with this project, clone the repository and open the Jupyter notebooks in your preferred environment. Each notebook includes detailed explanations and code to guide you through the analysis and modeling process.
 
 # Setting Up a Python Environment
 
@@ -42,4 +70,6 @@ If *virtualenv* is not installed on your system, you can install it using pip by
 pip install virtualenv
 ```
 
+## Disclaimer
 
+Please note that the credit card transaction data used in this project is synthetic and for demonstration purposes only. It does not contain real customer data or transaction information.
