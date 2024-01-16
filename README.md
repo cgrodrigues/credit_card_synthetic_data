@@ -30,13 +30,11 @@ This notebook showcases the creation of dashboards to visualize and explore cred
 
 To get started with this project, clone the repository and open the Jupyter notebooks in your preferred environment. Each notebook includes detailed explanations and code to guide you through the analysis and modeling process.
 
-# Setting Up a Python Environment
-
-## Introduction
+## Setting Up a Python Environment
 
 This guide will walk you through the steps to create a Python environment to run the Jupyter Notebooks in this repo. This environment will help you manage your project's dependencies and isolate your Python packages for better organization.
 
-## Steps to Create a Python Environment
+### Steps to Create a Python Environment
 
 1. **Create a Virtual Environment:**
 
@@ -59,7 +57,7 @@ This guide will walk you through the steps to create a Python environment to run
     ```
     This command will install all the required packages listed in the "requirements.txt" file.
 
-# List of Software Required
+### List of Software Required
 
 Make sure you have Python installed on your system. If it's not already installed, you can download it from the official Python website by [clicking here](https://www.python.org/downloads/).
 
