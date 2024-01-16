@@ -6,6 +6,8 @@ This project addresses the challenge of obtaining real credit card transaction d
 
 The General Data Protection Regulation (GDPR) imposes strict regulations on the processing and handling of personal data. This includes financial transactions, which are often considered sensitive and private. As a result, obtaining real credit card transaction data for analysis and modeling can be legally and ethically challenging.
 
+Part of this work is based on the [Fraud-Detection-Handbook](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)
+
 ## Jupyter Notebooks
 
 This repository contains four Jupyter notebooks, each serving a specific purpose in the analysis and modeling of credit card transactions.
